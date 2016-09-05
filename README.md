@@ -42,7 +42,7 @@ Install-Package Genesis.WindowScan
 Here are some examples:
 
 ```C#
-IObsevable<int> someObservable = ...;
+IObservable<int> someObservable = ...;
 
 var totalCountInLast10Seconds = someObservable
     .WindowScan(
