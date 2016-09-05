@@ -2,8 +2,7 @@
 
 # Genesis.WindowScan
 
-[![Build status](https://ci.appveyor.com/api/projects/status/6xahxjp1ac5ly0g2?svg=true)](https://ci.appveyor.com/project/kentcb/genesis-windowscan)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/c8paieufpgpm0v63?svg=true)](https://ci.appveyor.com/project/kentcb/genesis-windowscan)
 ## What?
 
 > All Genesis.* projects are formalizations of small pieces of functionality I find myself copying from project to project. Some are small to the point of triviality, but are time-savers nonetheless. They have a particular focus on performance with respect to mobile development, but are certainly applicable outside this domain.
