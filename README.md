@@ -14,14 +14,7 @@ In effect, `WindowScan` allows you to answer questions such as:
 * given an observable stream of customer orders, what is the total value of all orders placed in the last 6 months?
 * given an observable stream of prices, what is the average price for the last 10 minutes?
 
-**Genesis.WindowScan** is delivered as a PCL targeting a wide range of platforms, including:
-
-* .NET 4.5
-* Windows 8
-* Windows Store
-* Windows Phone 8
-* Xamarin iOS
-* Xamarin Android
+**Genesis.WindowScan** is delivered as a netstandard 1.0 binary.
 
 ## Why?
 
